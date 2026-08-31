@@ -29,4 +29,4 @@ Once the application is running, you can use the calculator interface to perform
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/munshi-rishad/Desktop-Based-Calculator.git
+   https://github.com/munshi-rishad/CSharpLab-Desktop-Based-Calculator.git
